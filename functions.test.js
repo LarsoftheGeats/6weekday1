@@ -1,5 +1,5 @@
-const {returnTwo:Two, 
-       greeting:g, 
+const {returnTwo:Two, //just testing javascript aliasing
+       greeting:g, //testing jscript aliasing
        add, 
        multiply, 
        divide, 
